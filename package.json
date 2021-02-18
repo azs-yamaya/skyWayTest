@@ -2,9 +2,6 @@
   "private": true,
   "name": "skyway-conference-dev",
   "version": "3.0.1",
-  "scripts": {
-    "start": "node index.js"
-  },
   "author": "NTT Communications Corp.",
   "license": "MIT",
   "devDependencies": {
