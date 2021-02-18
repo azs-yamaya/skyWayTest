@@ -44,5 +44,8 @@
       "@babel/preset-typescript",
       "@emotion/babel-preset-css-prop"
     ]
+  },
+  "script": {
+    "start": "node index.js"
   }
 }
