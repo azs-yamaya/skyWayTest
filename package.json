@@ -3,9 +3,7 @@
   "name": "skyway-conference-dev",
   "version": "3.0.1",
   "scripts": {
-    "dev": "webpack-dev-server",
-    "build": "webpack --mode=production",
-    "lint": "eslint --ext .ts,.tsx . && tsc --project . --noEmit"
+    "start": "node index.js"
   },
   "author": "NTT Communications Corp.",
   "license": "MIT",
